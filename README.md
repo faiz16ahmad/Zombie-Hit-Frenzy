@@ -1,8 +1,6 @@
-# Technical Test – KRAFTON
+# Zombie Hit Frenzy
 
-## Zombie Hit Frenzy 
-
-### Project Overview
+## Project Overview
 This project implements a portrait-oriented arcade zombie-hitting game inspired by Hot Slide. The player controls a drifting car in a top-down arena and earns points by hitting wandering zombies within a limited time. The objective is to score as many hits as possible before the countdown timer reaches zero.
 
 ## Prometeo Controller Adaptation
